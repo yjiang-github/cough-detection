@@ -35,7 +35,7 @@ from sklearn.tree import export_graphviz
 from sklearn.model_selection import KFold
 
 
-path = r'C:\Users\yjian\OneDrive\Documents\research files\cough\COURSE PROJECT'
+path = r''
 
 #%%
 createVar = locals()
